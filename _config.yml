@@ -1,4 +1,4 @@
-title: Derrick Wells – Independent Product Designer
+title: 个人学习记录
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ author:
   name: seng man
   image: '/assets/img/01.jpg'
   job: 大数据开发工程师
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  bio: “唯能极于情，故能极于剑”
   email: seng_man@163.com
 
 
