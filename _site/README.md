@@ -115,3 +115,6 @@ Mit License
 ### Support
 
 <p>If you’d like to support me so I can continue to provide free content and themes you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>. <b>Thank you for your support ❤️</b><p>
+
+### 本地访问
+jekyll server
