@@ -118,3 +118,6 @@ Mit License
 
 ### 本地访问
 jekyll server
+
+### 编译网站
+jekyll build
