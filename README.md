@@ -121,3 +121,6 @@ jekyll server
 
 ### 编译网站
 jekyll build
+
+### 图片大小
+680 × 454
