@@ -232,6 +232,9 @@
 运行结果
 <img src="/assets/img/java/java对象内存布局/重量锁运行结果.png" alt="" /></p>
 
+<h2 id="注意">注意</h2>
+<p>当调用对象的hashcode方法后，偏向锁失效，因为markword没有多余空间记录线程ID</p>
+
     </div>
 
     
@@ -307,9 +310,9 @@
           
         </ul>
       </div> -->
-      <div style="text-align: center;margin-top: 50px;">
-        <a href="http://beian.miit.gov.cn" style="color: #999;">苏ICP备18063102号-1</a>  
-      </div>
+      <!-- <div style="text-align: center;margin-top: 50px;"> -->
+        <!-- <a href="http://beian.miit.gov.cn" style="color: #999;">苏ICP备18063102号-1</a>   -->
+      <!-- </div> -->
     </div>
   </footer>
   <!-- end footer -->
