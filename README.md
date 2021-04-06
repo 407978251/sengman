@@ -16,7 +16,7 @@ Table of Contents
 *   [Support](#Support)
 
 * * *
-
+ 
 ### Features
 
 * 100% responsive and clean theme
